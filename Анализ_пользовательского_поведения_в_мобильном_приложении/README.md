@@ -14,7 +14,6 @@
 * matplotlib;
 * seaborn;
 * plotly;
-* warnings;
 * io;
 * requests;
 * scipy;
